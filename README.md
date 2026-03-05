@@ -1,2 +1,3 @@
-# GalBundler
-GalBundler: Create your own Galgame.
+# BUILDING...
+> # GalBundler
+> GalBundler: Create your own Galgame.
